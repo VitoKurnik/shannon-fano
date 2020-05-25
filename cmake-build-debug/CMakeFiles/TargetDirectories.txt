@@ -1,0 +1,3 @@
+D:/UserFiles/Vito/Documents/ARPworkspace/vaja3/cmake-build-debug/CMakeFiles/vaja3.dir
+D:/UserFiles/Vito/Documents/ARPworkspace/vaja3/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/UserFiles/Vito/Documents/ARPworkspace/vaja3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
